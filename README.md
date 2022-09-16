@@ -1,1 +1,3 @@
-# .github-private
+# Firebase Indonesia User Group
+
+Learning Firebase Technology with us
